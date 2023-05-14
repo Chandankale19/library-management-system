@@ -20,7 +20,7 @@ Project live on [AWS](http://librarymgmtsystem.herokuapp.com)
 - Clone the repository.
 
 ```sh
-$ git clone https://github.com/kumaraditya303/Library-Managament-System.git
+$ [https://github.com/Chandankale19/library-management-system.git]
 $ cd Library-Management-System
 ```
 
